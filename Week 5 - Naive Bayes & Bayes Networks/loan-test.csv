@@ -1,0 +1,201 @@
+loan,duration,account at bank,purpose,payment behavior,amount,savings account,employed since,ratio,highest asset value,other installment loans,previous installment loans,home,job,age
+1,12 <…<= 24,> 0,Furnishings,very good,1000 <…<= 2500,500 <= ... < 1000,7 years <=,< 20,life insurance,none,2 - 3,rent,trained / civil worker,46
+1,<=12,no,Other,very good,2500 <…<= 5000,none,1 <= … < 4 years,35 =<,real estate,none,4 - 5,free,trained / civil worker,37
+0,12 <…<= 24,no,Furnishings,none,1000 <…<= 2500,none,1 <= … < 4 years,< 20,real estate,none,1,rent,trained / civil worker,26
+1,<=12,no,Car used,none,<= 1000,none,7 years <=,25 =< … < 30,car,at other bank,1,rent,trained / civil worker,49
+1,<=12,> 0,Car used,none,1000 <…<= 2500,1000 <=,7 years <=,20 =< … < 35,real estate,none,1,rent,executive / self-employed,55
+1,24 <,> 0,Car new,very good,2500 <…<= 5000,1000 <=,7 years <=,< 20,life insurance,none,2 - 3,rent,trained / civil worker,38
+0,24 <,no,Other,none,5000 <,none,4 <= … < 7 years,25 =< … < 30,life insurance,none,1,rent,trained / civil worker,24
+1,<=12,<= 0,Other,very good,2500 <…<= 5000,none,< 1 year,35 =<,real estate,at other bank,2 - 3,rent,untrained,49
+0,24 <,no,Furnishings,none,1000 <…<= 2500,none,1 <= … < 4 years,< 20,life insurance,none,1,free,trained / civil worker,31
+0,24 <,<= 0,Furnishings,none,5000 <,none,1 <= … < 4 years,25 =< … < 30,real estate,none,1,rent,trained / civil worker,22
+0,<=12,> 0,Retraining,bad,<= 1000,none,< 1 year,< 20,real estate,at other bank,1,rent,none,26
+1,24 <,> 0,Retraining,very bad,5000 <,none,< 1 year,25 =< … < 30,car,none,2 - 3,rent,trained / civil worker,33
+0,24 <,> 0,Retraining,good,5000 <,1000 <=,< 1 year,< 20,life insurance,none,2 - 3,free,trained / civil worker,27
+1,<=12,> 0,Retraining,none,1000 <…<= 2500,none,4 <= … < 7 years,25 =< … < 30,life insurance,none,1,rent,trained / civil worker,36
+1,<=12,> 0,Repair,very good,1000 <…<= 2500,none,1 <= … < 4 years,25 =< … < 30,car,none,1,rent,untrained,50
+1,<=12,> 0,Car used,very good,1000 <…<= 2500,100 <= ... < 500,4 <= … < 7 years,20 =< … < 35,life insurance,none,1,free,trained / civil worker,37
+1,24 <,<= 0,Furnishings,none,1000 <…<= 2500,none,4 <= … < 7 years,< 20,life insurance,none,1,free,trained / civil worker,24
+1,<=12,> 0,Other,very good,1000 <…<= 2500,none,1 <= … < 4 years,35 =<,real estate,none,4 - 5,rent,none,74
+1,12 <…<= 24,> 0,Car new,none,2500 <…<= 5000,1000 <=,1 <= … < 4 years,25 =< … < 30,car,none,1,rent,trained / civil worker,31
+0,<=12,no,Other,none,1000 <…<= 2500,none,4 <= … < 7 years,25 =< … < 30,life insurance,none,1,rent,trained / civil worker,36
+1,12 <…<= 24,> 0,Retraining,none,1000 <…<= 2500,< 100,1 <= … < 4 years,20 =< … < 35,car,none,1,free,untrained,24
+0,<=12,> 0,Car used,none,1000 <…<= 2500,100 <= ... < 500,1 <= … < 4 years,< 20,life insurance,none,1,free,untrained,29
+1,24 <,> 0,Retraining,good,5000 <,none,4 <= … < 7 years,20 =< … < 35,life insurance,none,2 - 3,rent,trained / civil worker,26
+0,12 <…<= 24,no,Furnishings,none,1000 <…<= 2500,< 100,1 <= … < 4 years,< 20,life insurance,none,1,rent,untrained,32
+0,24 <,no,Repair,very good,5000 <,none,1 <= … < 4 years,20 =< … < 35,not determined,none,2 - 3,rent,executive / self-employed,25
+1,24 <,<= 0,Business,good,5000 <,< 100,not employed,25 =< … < 30,not determined,none,1,rent,executive / self-employed,31
+1,12 <…<= 24,> 0,Household Goods,very good,1000 <…<= 2500,none,1 <= … < 4 years,< 20,real estate,none,2 - 3,rent,trained / civil worker,33
+1,<=12,<= 0,Furnishings,none,1000 <…<= 2500,none,4 <= … < 7 years,< 20,real estate,none,2 - 3,rent,trained / civil worker,29
+1,12 <…<= 24,no,Car used,none,1000 <…<= 2500,1000 <=,4 <= … < 7 years,< 20,life insurance,none,1,rent,trained / civil worker,39
+1,<=12,> 0,Other,none,1000 <…<= 2500,none,< 1 year,< 20,real estate,none,1,rent,trained / civil worker,26
+1,12 <…<= 24,> 0,Repair,very good,1000 <…<= 2500,1000 <=,1 <= … < 4 years,20 =< … < 35,life insurance,none,2 - 3,rent,trained / civil worker,33
+0,<=12,<= 0,Other,none,5000 <,1000 <=,not employed,35 =<,car,none,1,rent,none,23
+1,<=12,<= 0,Other,none,5000 <,none,4 <= … < 7 years,25 =< … < 30,life insurance,none,1,rent,trained / civil worker,32
+1,12 <…<= 24,no,Furnishings,none,2500 <…<= 5000,none,4 <= … < 7 years,< 20,real estate,none,1,rent,trained / civil worker,25
+1,12 <…<= 24,> 0,Furnishings,none,1000 <…<= 2500,none,7 years <=,< 20,real estate,none,1,rent,executive / self-employed,36
+1,12 <…<= 24,> 0,Car new,very good,1000 <…<= 2500,1000 <=,4 <= … < 7 years,< 20,life insurance,none,2 - 3,rent,trained / civil worker,43
+1,12 <…<= 24,> 0,Car used,none,2500 <…<= 5000,none,< 1 year,35 =<,car,at other institution,1,rent,untrained,45
+1,12 <…<= 24,> 0,Furnishings,none,1000 <…<= 2500,100 <= ... < 500,7 years <=,< 20,car,at other institution,1,rent,trained / civil worker,47
+0,24 <,<= 0,Retraining,very bad,5000 <,none,1 <= … < 4 years,25 =< … < 30,life insurance,at other institution,1,rent,trained / civil worker,25
+0,24 <,no,Car used,bad,2500 <…<= 5000,none,7 years <=,< 20,life insurance,at other bank,1,rent,trained / civil worker,31
+1,<=12,<= 0,Vacation,very bad,1000 <…<= 2500,none,1 <= … < 4 years,25 =< … < 30,real estate,none,1,rent,untrained,31
+0,12 <…<= 24,no,Car used,very good,1000 <…<= 2500,none,1 <= … < 4 years,< 20,real estate,none,2 - 3,free,trained / civil worker,24
+0,24 <,no,Repair,none,1000 <…<= 2500,1000 <=,7 years <=,< 20,not determined,none,1,rent,executive / self-employed,40
+0,<=12,<= 0,Car used,none,1000 <…<= 2500,none,1 <= … < 4 years,20 =< … < 35,real estate,none,1,rent,trained / civil worker,24
+0,<=12,> 0,Household Goods,good,1000 <…<= 2500,500 <= ... < 1000,7 years <=,< 20,not determined,none,2 - 3,owned,trained / civil worker,55
+1,24 <,<= 0,Furnishings,none,2500 <…<= 5000,1000 <=,4 <= … < 7 years,< 20,life insurance,none,2 - 3,rent,trained / civil worker,41
+1,12 <…<= 24,<= 0,Car used,none,2500 <…<= 5000,1000 <=,4 <= … < 7 years,25 =< … < 30,life insurance,none,1,rent,trained / civil worker,35
+1,<=12,<= 0,Furnishings,very good,2500 <…<= 5000,none,1 <= … < 4 years,35 =<,real estate,none,1,rent,untrained,23
+1,<=12,> 0,Furnishings,very good,1000 <…<= 2500,none,7 years <=,25 =< … < 30,not determined,none,2 - 3,rent,trained / civil worker,26
+0,24 <,> 0,Furnishings,none,2500 <…<= 5000,none,1 <= … < 4 years,< 20,life insurance,none,1,rent,trained / civil worker,26
+1,12 <…<= 24,> 0,Furnishings,none,1000 <…<= 2500,< 100,1 <= … < 4 years,< 20,life insurance,none,1,free,executive / self-employed,29
+1,12 <…<= 24,> 0,Furnishings,none,2500 <…<= 5000,none,7 years <=,< 20,life insurance,at other bank,1,free,executive / self-employed,54
+1,<=12,> 0,Furnishings,bad,<= 1000,500 <= ... < 1000,1 <= … < 4 years,20 =< … < 35,real estate,none,2 - 3,free,trained / civil worker,42
+1,<=12,> 0,Furnishings,bad,1000 <…<= 2500,100 <= ... < 500,7 years <=,25 =< … < 30,car,at other bank,1,rent,untrained,45
+1,<=12,> 0,TV,none,1000 <…<= 2500,100 <= ... < 500,1 <= … < 4 years,35 =<,real estate,none,1,rent,trained / civil worker,62
+0,12 <…<= 24,no,Furnishings,none,1000 <…<= 2500,none,1 <= … < 4 years,25 =< … < 30,real estate,none,1,free,untrained,21
+1,<=12,> 0,Other,good,1000 <…<= 2500,none,1 <= … < 4 years,25 =< … < 30,life insurance,at other institution,2 - 3,rent,trained / civil worker,36
+1,<=12,no,Other,very good,<= 1000,none,7 years <=,35 =<,not determined,none,2 - 3,rent,trained / civil worker,39
+0,12 <…<= 24,no,Other,none,<= 1000,none,< 1 year,35 =<,life insurance,none,1,rent,untrained,23
+1,<=12,> 0,Car used,very good,2500 <…<= 5000,none,7 years <=,25 =< … < 30,car,at other institution,1,rent,trained / civil worker,42
+1,12 <…<= 24,> 0,Retraining,very good,1000 <…<= 2500,500 <= ... < 1000,1 <= … < 4 years,25 =< … < 30,real estate,none,2 - 3,rent,trained / civil worker,36
+0,<=12,no,Furnishings,bad,1000 <…<= 2500,none,1 <= … < 4 years,< 20,not determined,none,1,owned,trained / civil worker,29
+1,12 <…<= 24,> 0,Furnishings,none,2500 <…<= 5000,1000 <=,< 1 year,< 20,life insurance,none,2 - 3,rent,trained / civil worker,25
+1,12 <…<= 24,> 0,Car used,very good,1000 <…<= 2500,none,4 <= … < 7 years,< 20,car,none,2 - 3,rent,trained / civil worker,40
+0,12 <…<= 24,no,Other,very good,1000 <…<= 2500,none,7 years <=,< 20,life insurance,none,2 - 3,rent,untrained,60
+1,24 <,> 0,Repair,none,5000 <,1000 <=,1 <= … < 4 years,25 =< … < 30,not determined,none,1,owned,untrained,35
+0,<=12,no,Furnishings,none,<= 1000,none,7 years <=,< 20,real estate,none,1,rent,untrained,57
+1,12 <…<= 24,> 0,Furnishings,very good,1000 <…<= 2500,1000 <=,1 <= … < 4 years,< 20,car,none,2 - 3,rent,trained / civil worker,29
+1,12 <…<= 24,no,Car used,very good,1000 <…<= 2500,none,1 <= … < 4 years,< 20,car,none,2 - 3,free,trained / civil worker,25
+1,12 <…<= 24,> 0,Furnishings,very good,1000 <…<= 2500,none,1 <= … < 4 years,25 =< … < 30,life insurance,none,2 - 3,rent,trained / civil worker,26
+0,<=12,no,Furnishings,bad,<= 1000,none,1 <= … < 4 years,< 20,real estate,at other bank,1,rent,untrained,24
+1,24 <,> 0,Furnishings,none,1000 <…<= 2500,100 <= ... < 500,7 years <=,< 20,life insurance,none,1,rent,trained / civil worker,39
+0,24 <,no,Car used,none,5000 <,none,4 <= … < 7 years,< 20,car,none,1,rent,trained / civil worker,29
+1,12 <…<= 24,<= 0,Other,none,5000 <,< 100,1 <= … < 4 years,25 =< … < 30,life insurance,none,2 - 3,rent,trained / civil worker,30
+0,12 <…<= 24,no,Furnishings,none,2500 <…<= 5000,none,1 <= … < 4 years,< 20,not determined,none,2 - 3,owned,trained / civil worker,65
+1,12 <…<= 24,> 0,Furnishings,very good,2500 <…<= 5000,none,1 <= … < 4 years,< 20,real estate,none,2 - 3,rent,untrained,35
+1,<=12,no,Other,very good,1000 <…<= 2500,none,1 <= … < 4 years,< 20,car,none,2 - 3,rent,trained / civil worker,30
+1,24 <,<= 0,Retraining,very bad,2500 <…<= 5000,none,1 <= … < 4 years,25 =< … < 30,life insurance,none,2 - 3,rent,trained / civil worker,28
+0,24 <,<= 0,Retraining,very bad,5000 <,none,< 1 year,20 =< … < 35,not determined,none,1,free,trained / civil worker,58
+1,12 <…<= 24,> 0,Car new,none,2500 <…<= 5000,< 100,4 <= … < 7 years,20 =< … < 35,life insurance,none,1,rent,trained / civil worker,23
+1,12 <…<= 24,no,Other,very good,<= 1000,none,7 years <=,< 20,real estate,none,2 - 3,rent,trained / civil worker,65
+0,24 <,<= 0,Furnishings,very good,2500 <…<= 5000,none,< 1 year,< 20,car,at other bank,2 - 3,rent,untrained,24
+1,<=12,<= 0,Other,none,5000 <,1000 <=,not employed,35 =<,real estate,none,1,free,none,24
+1,12 <…<= 24,> 0,Furnishings,very good,1000 <…<= 2500,< 100,7 years <=,< 20,car,at other bank,2 - 3,rent,trained / civil worker,52
+1,12 <…<= 24,<= 0,Furnishings,good,1000 <…<= 2500,< 100,4 <= … < 7 years,20 =< … < 35,car,none,2 - 3,free,trained / civil worker,23
+1,12 <…<= 24,> 0,Repair,very good,1000 <…<= 2500,none,7 years <=,< 20,not determined,none,2 - 3,owned,trained / civil worker,54
+1,12 <…<= 24,no,Furnishings,none,1000 <…<= 2500,none,7 years <=,< 20,real estate,at other bank,1,free,untrained,64
+1,12 <…<= 24,<= 0,Furnishings,very good,1000 <…<= 2500,1000 <=,7 years <=,< 20,real estate,none,2 - 3,rent,trained / civil worker,50
+0,12 <…<= 24,<= 0,Furnishings,none,1000 <…<= 2500,none,< 1 year,35 =<,car,none,1,rent,trained / civil worker,22
+1,<=12,no,Other,very good,2500 <…<= 5000,none,1 <= … < 4 years,35 =<,real estate,none,2 - 3,rent,untrained,40
+0,24 <,<= 0,Repair,good,5000 <,none,7 years <=,< 20,not determined,none,1,owned,trained / civil worker,50
+1,12 <…<= 24,> 0,Vacation,none,<= 1000,none,< 1 year,< 20,life insurance,none,2 - 3,rent,untrained,27
+0,24 <,<= 0,Furnishings,none,5000 <,500 <= ... < 1000,4 <= … < 7 years,35 =<,not determined,at other bank,2 - 3,rent,trained / civil worker,27
+0,24 <,<= 0,Other,none,5000 <,1000 <=,1 <= … < 4 years,35 =<,not determined,at other bank,1,owned,trained / civil worker,37
+1,<=12,> 0,Other,very good,1000 <…<= 2500,100 <= ... < 500,1 <= … < 4 years,35 =<,life insurance,none,1,rent,trained / civil worker,24
+1,<=12,> 0,Other,none,2500 <…<= 5000,< 100,1 <= … < 4 years,35 =<,real estate,none,1,free,trained / civil worker,26
+1,24 <,<= 0,Car used,none,2500 <…<= 5000,none,< 1 year,25 =< … < 30,car,none,1,rent,trained / civil worker,22
+1,<=12,<= 0,Retraining,none,<= 1000,none,< 1 year,20 =< … < 35,real estate,none,1,rent,trained / civil worker,26
+0,12 <…<= 24,no,Other,bad,1000 <…<= 2500,none,4 <= … < 7 years,< 20,not determined,at other bank,2 - 3,owned,untrained,32
+0,24 <,<= 0,Furnishings,very good,2500 <…<= 5000,none,4 <= … < 7 years,25 =< … < 30,real estate,none,2 - 3,rent,trained / civil worker,25
+0,24 <,no,Car new,very bad,2500 <…<= 5000,none,7 years <=,20 =< … < 35,not determined,none,2 - 3,owned,trained / civil worker,24
+1,<=12,no,Furnishings,none,1000 <…<= 2500,none,4 <= … < 7 years,20 =< … < 35,real estate,none,1,rent,trained / civil worker,59
+1,12 <…<= 24,<= 0,Car used,very good,5000 <,none,7 years <=,25 =< … < 30,not determined,none,1,rent,trained / civil worker,41
+1,12 <…<= 24,> 0,Car new,very good,2500 <…<= 5000,1000 <=,4 <= … < 7 years,20 =< … < 35,car,none,2 - 3,rent,trained / civil worker,43
+1,12 <…<= 24,no,Other,none,1000 <…<= 2500,< 100,4 <= … < 7 years,< 20,life insurance,none,1,rent,executive / self-employed,30
+1,12 <…<= 24,<= 0,Car new,very good,5000 <,500 <= ... < 1000,7 years <=,25 =< … < 30,not determined,none,1,free,trained / civil worker,29
+0,24 <,<= 0,Retraining,very bad,2500 <…<= 5000,< 100,4 <= … < 7 years,< 20,not determined,none,1,owned,untrained,34
+1,<=12,<= 0,Other,none,1000 <…<= 2500,500 <= ... < 1000,7 years <=,< 20,real estate,none,1,rent,trained / civil worker,54
+1,24 <,<= 0,Other,good,5000 <,none,1 <= … < 4 years,25 =< … < 30,car,none,1,free,trained / civil worker,54
+1,<=12,> 0,Other,none,1000 <…<= 2500,none,1 <= … < 4 years,20 =< … < 35,real estate,none,2 - 3,rent,trained / civil worker,27
+1,<=12,> 0,Other,none,2500 <…<= 5000,100 <= ... < 500,7 years <=,25 =< … < 30,not determined,none,1,owned,untrained,51
+1,<=12,> 0,Furnishings,none,1000 <…<= 2500,none,< 1 year,25 =< … < 30,life insurance,at other bank,1,rent,trained / civil worker,29
+0,12 <…<= 24,no,Furnishings,none,1000 <…<= 2500,none,1 <= … < 4 years,20 =< … < 35,real estate,none,2 - 3,rent,trained / civil worker,25
+1,24 <,> 0,Furnishings,none,5000 <,none,1 <= … < 4 years,< 20,life insurance,none,1,rent,trained / civil worker,24
+1,<=12,> 0,Other,none,1000 <…<= 2500,1000 <=,7 years <=,< 20,life insurance,none,1,rent,trained / civil worker,50
+1,12 <…<= 24,<= 0,Car used,none,2500 <…<= 5000,< 100,7 years <=,< 20,not determined,none,1,owned,trained / civil worker,30
+1,24 <,> 0,Furnishings,very good,2500 <…<= 5000,1000 <=,7 years <=,< 20,life insurance,none,1,rent,trained / civil worker,51
+1,24 <,> 0,Furnishings,very good,2500 <…<= 5000,1000 <=,7 years <=,< 20,car,at other institution,2 - 3,rent,untrained,49
+0,24 <,<= 0,Retraining,none,2500 <…<= 5000,none,1 <= … < 4 years,< 20,life insurance,none,1,rent,trained / civil worker,36
+1,<=12,> 0,Furnishings,very good,1000 <…<= 2500,none,7 years <=,25 =< … < 30,real estate,none,2 - 3,free,trained / civil worker,30
+0,24 <,<= 0,Car used,very good,5000 <,none,1 <= … < 4 years,25 =< … < 30,life insurance,none,1,rent,executive / self-employed,30
+1,24 <,no,Car used,none,2500 <…<= 5000,500 <= ... < 1000,7 years <=,< 20,car,none,2 - 3,free,trained / civil worker,57
+1,12 <…<= 24,<= 0,Furnishings,none,<= 1000,none,1 <= … < 4 years,< 20,real estate,none,1,rent,untrained,25
+1,<=12,<= 0,Retraining,none,<= 1000,< 100,4 <= … < 7 years,25 =< … < 30,real estate,none,1,free,untrained,23
+1,12 <…<= 24,> 0,Other,none,5000 <,100 <= ... < 500,7 years <=,35 =<,not determined,none,1,owned,trained / civil worker,35
+0,24 <,<= 0,Retraining,bad,5000 <,none,7 years <=,< 20,not determined,none,1,free,trained / civil worker,59
+0,24 <,> 0,Other,very good,5000 <,none,1 <= … < 4 years,< 20,real estate,at other institution,2 - 3,rent,trained / civil worker,25
+0,12 <…<= 24,no,Car used,very bad,2500 <…<= 5000,none,< 1 year,35 =<,car,none,1,free,trained / civil worker,26
+1,<=12,> 0,Other,none,1000 <…<= 2500,100 <= ... < 500,1 <= … < 4 years,20 =< … < 35,not determined,none,1,free,untrained,40
+0,<=12,> 0,Other,very good,<= 1000,100 <= ... < 500,4 <= … < 7 years,< 20,real estate,none,4 - 5,rent,trained / civil worker,28
+1,12 <…<= 24,> 0,Furnishings,very good,1000 <…<= 2500,100 <= ... < 500,1 <= … < 4 years,25 =< … < 30,car,none,2 - 3,rent,untrained,47
+1,<=12,no,Other,good,1000 <…<= 2500,none,1 <= … < 4 years,< 20,real estate,none,2 - 3,rent,untrained,43
+1,12 <…<= 24,> 0,Furnishings,none,1000 <…<= 2500,1000 <=,7 years <=,< 20,life insurance,none,1,rent,trained / civil worker,35
+1,12 <…<= 24,> 0,Car used,none,2500 <…<= 5000,none,7 years <=,< 20,car,at other bank,4 - 5,rent,trained / civil worker,47
+0,<=12,<= 0,Other,none,<= 1000,none,4 <= … < 7 years,25 =< … < 30,life insurance,at other bank,1,rent,untrained,25
+1,<=12,<= 0,Car used,none,1000 <…<= 2500,none,1 <= … < 4 years,< 20,life insurance,none,1,rent,untrained,31
+0,12 <…<= 24,> 0,Car used,good,1000 <…<= 2500,none,4 <= … < 7 years,< 20,real estate,none,1,rent,trained / civil worker,22
+1,12 <…<= 24,no,Furnishings,none,1000 <…<= 2500,1000 <=,4 <= … < 7 years,25 =< … < 30,life insurance,none,2 - 3,free,untrained,23
+1,12 <…<= 24,> 0,Other,none,1000 <…<= 2500,none,1 <= … < 4 years,25 =< … < 30,real estate,none,1,rent,trained / civil worker,31
+0,12 <…<= 24,<= 0,Furnishings,none,2500 <…<= 5000,< 100,< 1 year,20 =< … < 35,life insurance,none,1,free,trained / civil worker,22
+1,12 <…<= 24,no,Car used,none,2500 <…<= 5000,none,1 <= … < 4 years,25 =< … < 30,real estate,none,1,free,untrained,24
+1,12 <…<= 24,> 0,Furnishings,none,1000 <…<= 2500,none,1 <= … < 4 years,< 20,car,none,1,rent,trained / civil worker,28
+1,<=12,> 0,Car new,good,1000 <…<= 2500,none,1 <= … < 4 years,< 20,real estate,none,1,free,trained / civil worker,41
+1,24 <,> 0,Car new,none,5000 <,< 100,7 years <=,< 20,life insurance,none,1,rent,executive / self-employed,45
+1,<=12,<= 0,Other,none,1000 <…<= 2500,none,4 <= … < 7 years,20 =< … < 35,car,none,1,free,trained / civil worker,30
+0,12 <…<= 24,> 0,Household Goods,none,1000 <…<= 2500,none,< 1 year,< 20,real estate,none,1,rent,trained / civil worker,23
+1,<=12,> 0,Car used,none,1000 <…<= 2500,none,1 <= … < 4 years,< 20,real estate,none,1,rent,trained / civil worker,50
+0,<=12,<= 0,Furnishings,none,1000 <…<= 2500,none,< 1 year,35 =<,real estate,none,1,free,trained / civil worker,23
+1,<=12,<= 0,Furnishings,none,1000 <…<= 2500,none,7 years <=,< 20,life insurance,none,1,rent,trained / civil worker,28
+1,<=12,> 0,Other,none,<= 1000,none,1 <= … < 4 years,< 20,real estate,none,1,rent,untrained,49
+1,24 <,no,Car used,very bad,2500 <…<= 5000,none,1 <= … < 4 years,25 =< … < 30,real estate,none,2 - 3,rent,trained / civil worker,32
+0,<=12,<= 0,Other,good,1000 <…<= 2500,none,not employed,< 20,car,none,1,rent,executive / self-employed,47
+1,<=12,> 0,Other,none,2500 <…<= 5000,1000 <=,< 1 year,25 =< … < 30,car,none,1,rent,executive / self-employed,45
+0,12 <…<= 24,<= 0,Car new,none,5000 <,none,7 years <=,< 20,not determined,none,1,owned,executive / self-employed,44
+1,<=12,> 0,Furnishings,none,1000 <…<= 2500,none,4 <= … < 7 years,< 20,life insurance,none,2 - 3,free,executive / self-employed,31
+1,12 <…<= 24,> 0,TV,none,<= 1000,1000 <=,< 1 year,< 20,real estate,none,1,rent,trained / civil worker,24
+1,12 <…<= 24,<= 0,Furnishings,none,2500 <…<= 5000,< 100,< 1 year,25 =< … < 30,life insurance,none,1,rent,trained / civil worker,29
+1,24 <,no,Car used,none,2500 <…<= 5000,none,not employed,< 20,car,none,1,rent,executive / self-employed,30
+1,12 <…<= 24,<= 0,Other,good,1000 <…<= 2500,none,1 <= … < 4 years,35 =<,car,none,2 - 3,rent,trained / civil worker,47
+1,12 <…<= 24,> 0,Furnishings,good,1000 <…<= 2500,none,not employed,25 =< … < 30,real estate,none,2 - 3,rent,trained / civil worker,34
+1,12 <…<= 24,no,Repair,good,5000 <,1000 <=,1 <= … < 4 years,35 =<,life insurance,none,2 - 3,free,trained / civil worker,23
+1,12 <…<= 24,no,Furnishings,none,1000 <…<= 2500,none,< 1 year,< 20,real estate,none,1,rent,trained / civil worker,27
+1,12 <…<= 24,> 0,Furnishings,very good,2500 <…<= 5000,none,7 years <=,< 20,real estate,none,2 - 3,rent,trained / civil worker,46
+1,<=12,> 0,Other,none,1000 <…<= 2500,1000 <=,< 1 year,35 =<,real estate,none,1,rent,untrained,29
+0,12 <…<= 24,no,Furnishings,none,1000 <…<= 2500,none,not employed,< 20,life insurance,at other institution,1,rent,executive / self-employed,30
+0,24 <,no,Car new,very good,5000 <,none,4 <= … < 7 years,< 20,life insurance,none,2 - 3,rent,trained / civil worker,24
+1,<=12,no,Furnishings,very good,<= 1000,none,4 <= … < 7 years,< 20,real estate,none,6,rent,untrained,58
+0,12 <…<= 24,> 0,Other,none,5000 <,1000 <=,1 <= … < 4 years,25 =< … < 30,life insurance,at other institution,2 - 3,free,trained / civil worker,68
+1,12 <…<= 24,<= 0,Business,good,2500 <…<= 5000,none,1 <= … < 4 years,25 =< … < 30,life insurance,at other bank,2 - 3,rent,trained / civil worker,29
+1,12 <…<= 24,<= 0,Car new,none,2500 <…<= 5000,1000 <=,7 years <=,< 20,not determined,at other bank,1,owned,trained / civil worker,36
+1,<=12,> 0,Other,very good,1000 <…<= 2500,100 <= ... < 500,1 <= … < 4 years,< 20,real estate,none,1,rent,trained / civil worker,44
+0,24 <,<= 0,Other,very good,2500 <…<= 5000,none,not employed,< 20,life insurance,none,2 - 3,rent,executive / self-employed,28
+1,12 <…<= 24,<= 0,Repair,very good,5000 <,none,< 1 year,25 =< … < 30,not determined,none,2 - 3,owned,trained / civil worker,24
+1,24 <,> 0,Retraining,none,5000 <,1000 <=,7 years <=,20 =< … < 35,car,none,2 - 3,rent,trained / civil worker,37
+1,12 <…<= 24,no,Furnishings,none,2500 <…<= 5000,none,1 <= … < 4 years,25 =< … < 30,life insurance,none,1,rent,trained / civil worker,28
+1,<=12,<= 0,Other,none,2500 <…<= 5000,1000 <=,1 <= … < 4 years,35 =<,real estate,none,1,rent,untrained,33
+0,12 <…<= 24,> 0,Retraining,good,2500 <…<= 5000,100 <= ... < 500,< 1 year,< 20,real estate,at other bank,1,rent,untrained,41
+1,12 <…<= 24,> 0,Car used,none,1000 <…<= 2500,none,1 <= … < 4 years,25 =< … < 30,real estate,none,1,rent,trained / civil worker,26
+0,<=12,<= 0,Other,none,<= 1000,none,7 years <=,< 20,life insurance,at other bank,1,rent,untrained,41
+1,<=12,<= 0,Other,very good,1000 <…<= 2500,100 <= ... < 500,4 <= … < 7 years,20 =< … < 35,life insurance,none,1,rent,executive / self-employed,36
+1,24 <,<= 0,Retraining,good,5000 <,< 100,4 <= … < 7 years,35 =<,car,none,2 - 3,rent,untrained,31
+1,<=12,> 0,Household Goods,none,<= 1000,100 <= ... < 500,4 <= … < 7 years,25 =< … < 30,real estate,none,1,free,untrained,23
+0,24 <,<= 0,Retraining,good,2500 <…<= 5000,none,1 <= … < 4 years,25 =< … < 30,real estate,at other institution,2 - 3,rent,executive / self-employed,30
+1,12 <…<= 24,> 0,Other,good,<= 1000,1000 <=,7 years <=,< 20,life insurance,none,2 - 3,rent,trained / civil worker,54
+1,12 <…<= 24,> 0,Furnishings,very good,1000 <…<= 2500,none,1 <= … < 4 years,< 20,life insurance,none,2 - 3,rent,trained / civil worker,24
+1,24 <,> 0,Furnishings,none,1000 <…<= 2500,100 <= ... < 500,7 years <=,< 20,life insurance,at other bank,1,rent,executive / self-employed,30
+1,24 <,> 0,Furnishings,none,2500 <…<= 5000,1000 <=,7 years <=,25 =< … < 30,real estate,none,1,rent,untrained,45
+0,12 <…<= 24,no,Furnishings,bad,1000 <…<= 2500,none,4 <= … < 7 years,< 20,life insurance,at other bank,1,free,untrained,24
+0,12 <…<= 24,<= 0,Car used,good,2500 <…<= 5000,none,7 years <=,< 20,not determined,none,1,rent,executive / self-employed,40
+1,<=12,> 0,Furnishings,very good,1000 <…<= 2500,none,1 <= … < 4 years,35 =<,life insurance,none,2 - 3,rent,trained / civil worker,28
+1,12 <…<= 24,> 0,Furnishings,very good,1000 <…<= 2500,none,1 <= … < 4 years,25 =< … < 30,life insurance,none,2 - 3,rent,trained / civil worker,25
+0,24 <,<= 0,Repair,none,5000 <,none,1 <= … < 4 years,< 20,not determined,none,1,owned,trained / civil worker,42
+1,12 <…<= 24,<= 0,Car used,very good,1000 <…<= 2500,none,< 1 year,< 20,car,none,2 - 3,rent,trained / civil worker,27
+1,<=12,<= 0,Other,very good,<= 1000,none,4 <= … < 7 years,25 =< … < 30,real estate,none,2 - 3,rent,untrained,47
+0,24 <,<= 0,Furnishings,none,2500 <…<= 5000,none,4 <= … < 7 years,< 20,real estate,none,2 - 3,rent,trained / civil worker,28
+1,<=12,<= 0,Car new,very good,1000 <…<= 2500,none,not employed,< 20,life insurance,none,2 - 3,rent,executive / self-employed,34
+1,24 <,<= 0,Furnishings,none,2500 <…<= 5000,1000 <=,7 years <=,25 =< … < 30,life insurance,none,1,rent,trained / civil worker,25
+1,24 <,> 0,Furnishings,very good,2500 <…<= 5000,none,4 <= … < 7 years,< 20,life insurance,none,1,free,executive / self-employed,26
+0,12 <…<= 24,<= 0,Repair,bad,1000 <…<= 2500,none,4 <= … < 7 years,< 20,not determined,at other bank,1,owned,untrained,34
+1,12 <…<= 24,<= 0,Car used,very good,5000 <,none,not employed,< 20,car,at other institution,2 - 3,rent,executive / self-employed,40
