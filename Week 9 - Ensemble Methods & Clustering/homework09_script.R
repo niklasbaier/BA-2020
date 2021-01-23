@@ -16,7 +16,7 @@ myf <- function(x, mu, sigma) {
 }
 
 # b) Initialize your start values.
-values <- c(.76, .86, 1.12, 3.05, 3.75)
+values <- c(.76, .86, 1.12, 3.05, 3.51, 3.75)
 
 mu_a <- 1.12
 sigma_a <- 1
@@ -34,8 +34,8 @@ em_algo <- function(values, mu_a, sigma_a, p_a, mu_b, sigma_b, p_b, niter) {
     p_x_b <- sapply(values, myf, mu = mu_b, sigma = sigma_b)
     
     p_x <- (p_x_a * p_a) + (p_x_b * p_b)
-    p_a_x <- (p_x_a * p_a) / p_x_b
-    p_b_x <- (p_x_b * p_b) / p_x_b
+    p_a_x <- (p_x_a * p_a) / p_x
+    p_b_x <- (p_x_b * p_b) / p_x
     
     # update parameters
     mu_a <- sum(p_a_x * values) / sum(p_a_x)
